@@ -29,6 +29,6 @@ It is designed for practicing **SQL queries**, data organization, and report gen
 
 ##  Tools
 - MySQL / SQLite / BigQuery  
-- Excel or Power BI for visualization
+- Excel 
 
 ---
