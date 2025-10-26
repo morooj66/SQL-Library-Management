@@ -1,4 +1,3 @@
-# library-db
 #  Library Database Project
 
 This project contains a **relational database** for a library system including books, authors, and categories.  
