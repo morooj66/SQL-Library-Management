@@ -1,0 +1,21 @@
+Book_ID,Title,Author,Category,Publication_Year,Language,Rating,Available_Copies
+1,Atomic Habits,James Clear,Self-Development,2018,English,4.8,10
+2,Deep Work,Cal Newport,Productivity,2016,English,4.6,8
+3,The Power of Now,Eckhart Tolle,Mindfulness,2004,English,4.7,6
+4,Design of Everyday Things,Don Norman,Design,2013,English,4.5,7
+5,Clean Code,Robert C. Martin,Technology,2008,English,4.8,5
+6,You Are the Placebo,Joe Dispenza,Health,2014,English,4.6,9
+7,Digital Minimalism,Cal Newport,Digital Wellbeing,2019,English,4.4,4
+8,The Design of Future Things,Don Norman,Design,2009,English,4.3,3
+9,"Thinking, Fast and Slow",Daniel Kahneman,Psychology,2011,English,4.7,8
+10,The Psychology of Money,Morgan Housel,Finance,2020,English,4.8,12
+11,Ikigai,Hector Garcia,Self-Development,2017,English,4.5,10
+12,The Subtle Art of Not Giving a F*ck,Mark Manson,Motivation,2016,English,4.6,11
+13,The Lean Startup,Eric Ries,Business,2011,English,4.7,6
+14,Hooked: How to Build Habit-Forming Products,Nir Eyal,Technology,2014,English,4.5,5
+15,Can't Hurt Me,David Goggins,Motivation,2018,English,4.9,7
+16,Why We Sleep,Matthew Walker,Health,2017,English,4.8,8
+17,The Mountain Is You,Brianna Wiest,Self-Development,2020,English,4.6,9
+18,The Art of Happiness,Dalai Lama,Philosophy,1998,English,4.7,10
+19,Zero to One,Peter Thiel,Business,2014,English,4.5,6
+20,Start with Why,Simon Sinek,Leadership,2009,English,4.7,7
